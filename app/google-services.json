@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152515779303",
+    "firebase_url": "https://testcloudstorage-5039f.firebaseio.com",
+    "project_id": "testcloudstorage-5039f",
+    "storage_bucket": "testcloudstorage-5039f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152515779303:android:c6d78e12d72a7b1638e042",
+        "android_client_info": {
+          "package_name": "com.ivan.testcloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152515779303-mmvif5vmihik0djhfdn604ld5rje00r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivan.testcloudstorage",
+            "certificate_hash": "f9a0a2f531d656c685f7bccf74a35e68a7c6a59e"
+          }
+        },
+        {
+          "client_id": "152515779303-51i3cdfgo7aqip5bk8hbj8furh3pm5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifgw_UzfWdbYRLMpaKBFvTgbNNccJUnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152515779303-51i3cdfgo7aqip5bk8hbj8furh3pm5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
